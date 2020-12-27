@@ -2,8 +2,8 @@
 
 #### 🔭 i'm currently working on.
   - Gmail and native application.
-  - Atom editor plugin.
-  - CMS chatbot , heatmap , step-by-step application
+  - CMS chatbot , heatmap , step-by-step application.
+  - web scraping projects.
   
 #### 🌱 i'm currently learning.
 
