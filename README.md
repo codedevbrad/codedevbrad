@@ -1,9 +1,10 @@
 ### Hi there , i'm a fullstack dev currently building projects in my spare time 👋 ###
 
 #### 🔭 i'm currently working on.
-  - Gmail and native application.
-  - CMS chatbot , heatmap , step-by-step application.
-  - web scraping projects.
+  - Notion clone
+  - Npm packages with storybook testing.
+  - business web scraper.
+  - twitter posting bot.
   
 #### 🌱 i'm currently learning.
 
