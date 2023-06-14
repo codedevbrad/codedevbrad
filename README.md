@@ -1,10 +1,7 @@
 ### Hi there , i'm a fullstack dev currently building projects in my spare time 👋 ###
 
 #### 🔭 i'm currently working on.
-  - Notion clone
-  - Npm packages with storybook testing.
-  - business web scraper.
-  - twitter posting bot.
+  - Trackr personal budget (NextTS V13, Railway, Prisma, PostgreSQL )
   
 #### 🌱 i'm currently learning.
 
