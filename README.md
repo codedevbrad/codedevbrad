@@ -3,7 +3,12 @@
 #### 🔭 i'm currently working on.
   - Trackr personal budget (NextTS V13, Railway, Prisma, PostgreSQL )
   
-#### 🌱 i'm currently learning.
+#### 🌱 my tech stacks
+   - ( NextTS V13, Railway, Prisma, PostgreSQL )
+   - ( ReactTs, NodeTs & express, MongoDB, Redis and RabbitMq ).
+
+
+### to see more - https://bradlumberdev.notion.site/bradlumberdev/Brad-Lumber-React-NextJs-developer-4c11fc242ff44499a99aefe3ba92e417
 
 <!--
 **codedevbrad/codedevbrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
