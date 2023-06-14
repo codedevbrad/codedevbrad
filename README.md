@@ -8,7 +8,7 @@
    - ( ReactTs, NodeTs & express, MongoDB, Redis and RabbitMq ).
 
 
-### to see more - https://bradlumberdev.notion.site/bradlumberdev/Brad-Lumber-React-NextJs-developer-4c11fc242ff44499a99aefe3ba92e417
+### to see my languages learned and projects in more written detail - https://bradlumberdev.notion.site/bradlumberdev/Brad-Lumber-React-NextJs-developer-4c11fc242ff44499a99aefe3ba92e417
 
 <!--
 **codedevbrad/codedevbrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
