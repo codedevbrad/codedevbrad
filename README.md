@@ -1,12 +1,12 @@
 ### Hi there , i'm a fullstack dev currently building projects in my spare time 👋 ###
 
 #### 🔭 i'm currently working on.
-  - Trackr personal budget (NextTS V13, Railway, Prisma, PostgreSQL )
+  - Trackr personal budget (NextTS V13, Railway, Prisma, PostgreSQL ).
+  - 2023 - Social media post generator with post preview | using chatGPT ( NextTs v13, Open.a.i ).
   
 #### 🌱 my tech stacks
    - ( NextTS V13, Railway, Prisma, PostgreSQL )
    - ( ReactTs, NodeTs & express, MongoDB, Redis and RabbitMq ).
-
 
 ### to see my languages learned and projects in more written detail - https://bradlumberdev.notion.site/bradlumberdev/Brad-Lumber-React-NextJs-developer-4c11fc242ff44499a99aefe3ba92e417
 
