@@ -4,6 +4,7 @@
   - Trackr personal budget (NextTS V13, Railway, Prisma, PostgreSQL ).
   - 2023 - Social media post generator with post preview | using chatGPT ( NextTs v13, Open. a.i ).
   - Open source contribution.
+    - https://github.com/codedevbrad/syllabus
   
 #### 🌱 my tech stacks
    - ( NextTS V13, Railway, Prisma, PostgreSQL )
