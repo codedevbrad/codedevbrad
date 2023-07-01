@@ -6,6 +6,8 @@
   - Open source contribution.
     - https://github.com/codedevbrad/syllabus
     - https://github.com/Peppermint-Lab/peppermint
+   
+### 🌱 I’m currently learning
 
 ### To see my languages learned and projects in more written detail - https://bradlumberdev.notion.site/bradlumberdev/Brad-Lumber-React-NextJs-developer-4c11fc242ff44499a99aefe3ba92e417
 
@@ -16,7 +18,6 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on
-- 🌱 I’m currently learning
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
