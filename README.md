@@ -1,6 +1,6 @@
 ### Hi there, I'm a full-stack dev currently building projects in my spare time 👋 ###
 
-#### 🔭 I'm currently working on ...
+### 🔭 I'm currently working on ...
   - Trackr personal budget (NextTS V13, Railway, Prisma, PostgreSQL ).
   - 2023 - Social media post generator with post preview | using chatGPT ( NextTs v13, Open. a.i ).
   - 2023 - ThemeSwitch with TailwindCss.
@@ -9,7 +9,7 @@
     - https://github.com/codedevbrad/syllabus
     - https://github.com/Peppermint-Lab/peppermint
    
-## Code challenge stats ...
+### Code challenge stats ...
 ![LeetCode Stats](https://leetcard.jacoblin.cool/user0171yr?theme=light&font=M%20PLUS%201%20Code&ext=heatmap)
 
 ### To see my languages learned and projects in more written detail - https://bradlumberdev.notion.site/bradlumberdev/Brad-Lumber-React-NextJs-developer-4c11fc242ff44499a99aefe3ba92e417
