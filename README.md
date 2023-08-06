@@ -9,7 +9,8 @@
     - https://github.com/codedevbrad/syllabus
     - https://github.com/Peppermint-Lab/peppermint
    
-### 🌱 I’m currently learning
+## Code challenge stats ...
+![LeetCode Stats](https://leetcard.jacoblin.cool/user0171yr?theme=light&font=M%20PLUS%201%20Code&ext=heatmap)
 
 ### To see my languages learned and projects in more written detail - https://bradlumberdev.notion.site/bradlumberdev/Brad-Lumber-React-NextJs-developer-4c11fc242ff44499a99aefe3ba92e417
 
