@@ -1,5 +1,7 @@
 ### Hi there, I'm a full-stack dev currently building projects in my spare time 👋 ###
 
+" Make it work, make it right, make it fast "
+
 ### 🔭 I'm currently working on ...
   - Trackr personal budget (NextTS V13, Railway, Prisma, PostgreSQL ).
   - 2023 - Social media post generator with post preview | using chatGPT ( NextTs v13, Open. a.i ).
