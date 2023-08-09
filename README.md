@@ -1,6 +1,5 @@
 ### Hi there, I'm a full-stack dev currently building projects in my spare time 👋 ###
 
-
 > " Make it work, make it right, make it fast " – Kent Beck.
 
 ### 🔭 I'm currently working on ...
