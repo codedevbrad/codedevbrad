@@ -3,13 +3,10 @@
 > " Make it work, make it right, make it fast " – Kent Beck.
 
 ### 🔭 I'm currently working on ...
-  - Trackr personal budget (NextTS V13, Railway, Prisma, PostgreSQL ).
   - 2023 - Social media post generator with post preview | using chatGPT ( NextTs v13, Open. a.i ).
+  - 2023 - tutoring app.
   - 2023 - ThemeSwitch with TailwindCss.
-  - 2023 - TourGuide for NextJs.
   - Open source contribution.
-    - https://github.com/codedevbrad/syllabus
-    - https://github.com/Peppermint-Lab/peppermint
    
 ### Code challenge stats ...
 ![LeetCode Stats](https://leetcard.jacoblin.cool/user0171yr?theme=light&font=M%20PLUS%201%20Code&ext=heatmap)
