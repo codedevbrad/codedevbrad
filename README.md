@@ -3,10 +3,8 @@
 > " Make it work, make it right, make it fast " – Kent Beck.
 
 ### 🔭 I'm currently working on ...
-  - 2023 - Social media post generator with post preview | using chatGPT ( NextTs v13, Open. a.i ).
-  - 2023 - tutoring app.
-  - 2023 - ThemeSwitch with TailwindCss.
-  - Open source contribution.
+  - 2024 : CodingPlatform
+  - 2024 : Animated coding snippets.
    
 ### Code challenge stats ...
 ![LeetCode Stats](https://leetcard.jacoblin.cool/user0171yr?theme=light&font=M%20PLUS%201%20Code&ext=heatmap)
