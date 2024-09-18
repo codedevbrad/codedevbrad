@@ -22,13 +22,14 @@
 </div>
 
 
-[GitHub - codedevbrad/animated-code-snippet: Generated animated code snippets with code completion next step interactivity from the user](https://github.com/codedevbrad/animated-code-snippet)
+[GitHub - codedevbrad/animated-code-snippet](https://github.com/codedevbrad/animated-code-snippet)
 
 </br>
 
 ### 2024 - Tutor platform using NextTs@v14 app router | Prisma | ClerkAuth | Zod |  useSWR | Open.ai | Mongo DB.
-Learning Platform for students to learn coding. Built using NextTs@v14 app router | Prisma | ClerkAuth | Zod | useSWR | [Open.ai](http://open.ai/).
-[Learning platform.](https://www.notion.so/Learning-platform-8674b50ceed74ff2bb1d964a01d3a709?pvs=21)
+Learning Platform for students to learn coding. Built using NextTs@v14 app router | Prisma | ClerkAuth | Zod | useSWR | 
+
+[Github - Learning Platform](https://github.com/codedevbrad/learningPlatform)
 
 </br>
 
@@ -36,17 +37,13 @@ Learning Platform for students to learn coding. Built using NextTs@v14 app route
 
 Empowers people to effortlessly generate engaging social media post ideas. With the integration of ChatGPT, an advanced language model, this generator provides a seamless experience in crafting compelling social media content.
 
-[GitHub - codedevbrad/chatGPT__Post_generator: effortlessly generate engaging social media post ideas using the integration of ChatGPT.](https://github.com/codedevbrad/chatGPT__Post_generator)
-
-[Project.](https://www.notion.so/Project-4f48d69ca00f4ea286d94ac493cca5d3?pvs=21)
+[GitHub - codedevbrad/chatGPT__Post_generator](https://github.com/codedevbrad/chatGPT__Post_generator)
 
 </br>
 
 ### 2022 - NodeJS **Authentication Layer NPM package.**
 
 Made a tiny npm package that makes it easy to implement JWT or PassportJs within any NodeJS project. As of now, you can only use MongoDB. Was interesting to build but came across Database issues that made me abandon the project.
-
-[GitHub - codedevbrad/codedevbrad-authservice](https://github.com/codedevbrad/codedevbrad-authservice)
 
 Contains:
 
@@ -56,10 +53,7 @@ Contains:
 - prebuilt methods and logic accessible for all authentication strategies.
 - access to adding more properties to the Users collection model.
 
-[Work in progress.](https://www.notion.so/Work-in-progress-f3e66ada519a47a5a8e436c0cda8ef2c?pvs=21)
-
-
-
+[GitHub - codedevbrad/codedevbrad-authservice](https://github.com/codedevbrad/codedevbrad-authservice)
 
 
 
