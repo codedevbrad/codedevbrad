@@ -27,7 +27,7 @@
 </br>
 
 ### 2024 - Tutor platform using NextTs@v14 app router | Prisma | ClerkAuth | Zod |  useSWR | Open.ai | Mongo DB.
-
+Learning Platform for students to learn coding. Built using NextTs@v14 app router | Prisma | ClerkAuth | Zod | useSWR | [Open.ai](http://open.ai/).
 [Learning platform.](https://www.notion.so/Learning-platform-8674b50ceed74ff2bb1d964a01d3a709?pvs=21)
 
 </br>
