@@ -31,7 +31,7 @@ Learning Platform for students to learn coding. Built using NextTs@v14 app route
 
 </br>
 <div align='center'>
-   <img src="https://github.com/user-attachments/assets/41acba80-8e4b-4b24-9249-82d4ced9c527" alt="Animated code snippet challenges" width="900" /> 
+   <img src="https://github.com/user-attachments/assets/0e996ac8-b324-435d-8e9e-d08982af29c7" alt="coding bootcamp" width="900" /> 
 </div>
 [Github - Learning Platform](https://github.com/codedevbrad/learningPlatform)
 
