@@ -1,3 +1,6 @@
+<div align="center">
+  
+
 ## Hi there, I'm a full-stack dev currently building projects in my spare time 👋 ###
 
 > " Make it work, make it right, make it fast " – Kent Beck.
@@ -10,25 +13,26 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/user0171yr?theme=light&font=M%20PLUS%201%20Code&ext=heatmap)
 
 
-## projects
-
-### 2024 - Animated code snippet package.
+# projects
 
 <div align="center">
+  <h2>  2024 - Animated code snippet package. </h2>
   <p>
     This project provides an interactive and animated code learning experience using React. It presents coding challenges in a typewriter-like animation, allowing users to learn and practice coding concepts step by step. The challenges are enhanced with options for interactive questions, live coding reflections, and the ability to retry challenges.
   </p>
+</br>
   <img src="https://github.com/user-attachments/assets/22cbdbc7-8fde-468e-8fcb-eebf4a81a66a" alt="Animated code snippet challenges" width="900" height="420" />
 </div>
-
-
-[GitHub - codedevbrad/animated-code-snippet](https://github.com/codedevbrad/animated-code-snippet)
 
 </br>
 
 ### 2024 - Tutor platform using NextTs@v14 app router | Prisma | ClerkAuth | Zod |  useSWR | Open.ai | Mongo DB.
-Learning Platform for students to learn coding. Built using NextTs@v14 app router | Prisma | ClerkAuth | Zod | useSWR | 
+Learning Platform for students to learn coding. Built using NextTs@v14 app router | Prisma | ClerkAuth | Zod | useSWR | .
 
+</br>
+<div align='center'>
+   <img src="https://github.com/user-attachments/assets/41acba80-8e4b-4b24-9249-82d4ced9c527" alt="Animated code snippet challenges" width="900" /> 
+</div>
 [Github - Learning Platform](https://github.com/codedevbrad/learningPlatform)
 
 </br>
@@ -58,6 +62,8 @@ Contains:
 
 
 ## To see my languages learned and projects in more written detail - https://bradlumberdev.notion.site/bradlumberdev/Brad-Lumber-React-NextJs-developer-4c11fc242ff44499a99aefe3ba92e417
+
+</div>
 
 <!--
 **codedevbrad/codedevbrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
