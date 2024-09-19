@@ -16,13 +16,17 @@
 # projects
 
 <div align="center">
-  <h2>  2024 - Animated code snippet package. </h2>
+  <a href="https://github.com/codedevbrad/animated-code-snippet">
+     <h2> 2024 - Animated code snippet package. </h2>
+   </a>
   <p>
     This project provides an interactive and animated code learning experience using React. It presents coding challenges in a typewriter-like animation, allowing users to learn and practice coding concepts step by step. The challenges are enhanced with options for interactive questions, live coding reflections, and the ability to retry challenges.
   </p>
 </br>
   <img src="https://github.com/user-attachments/assets/22cbdbc7-8fde-468e-8fcb-eebf4a81a66a" alt="Animated code snippet challenges" width="900" height="420" />
 </div>
+
+https://github.com/codedevbrad/animated-code-snippet
 
 </br>
 
