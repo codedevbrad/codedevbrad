@@ -24,9 +24,7 @@
   </div>
 
   <h3> Track my projects in more detail </h3>
-  <a href="https://bradlumberdev.notion.site/Learning-platform-8674b50ceed74ff2bb1d964a01d3a709?pvs=4">
-    <img src="https://skillicons.dev/icons?i=notion" />
-  </a>
+  
 </div>
 
 
@@ -36,8 +34,10 @@
     <ul align="center" style="list-style: none;">
       <summary>
         <h1> projects </h1>
-      </summary>
-      <img src="https://leetcard.jacoblin.cool/user0171yr?theme=light&font=M%20PLUS%201%20Code&ext=heatmap"/>
+      </summary>        
+      <a href="https://bradlumberdev.notion.site/Learning-platform-8674b50ceed74ff2bb1d964a01d3a709?pvs=4">
+        <img src="https://skillicons.dev/icons?i=notion" />
+      </a>
     </ul>
   </div>
 
