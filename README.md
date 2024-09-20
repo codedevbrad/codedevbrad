@@ -1,10 +1,28 @@
+
+<div id="user-content-toc">
+  <ul align="center" style="list-style: none;">
+    <summary>
+      <h1>Hi,👋🏻 I'm Brad </h1>
+    </summary>
+    <summary>
+      <h2> I'm a full-stack dev currently building projects in my spare time 👋 </h2>
+    </summary>
+  </ul>
+</div>
+
 <div align="center">
-  <h1> Hi there, </h1> 
-  <h2> I'm a full-stack dev currently building projects in my spare time 👋 </h2>
-  </br>
-  
+
     Make it work, make it right, make it fast " – Kent Beck 
-    
+
+  <div id="user-content-toc">
+    <ul align="center" style="list-style: none;">
+      <summary>
+        <h2> Code challenge stats </h2>
+      </summary>
+      <img src="https://leetcard.jacoblin.cool/user0171yr?theme=light&font=M%20PLUS%201%20Code&ext=heatmap"/>
+    </ul>
+  </div>
+
   <h3> Track my projects in more detail </h3>
   <a href="https://bradlumberdev.notion.site/Learning-platform-8674b50ceed74ff2bb1d964a01d3a709?pvs=4">
     <img src="https://skillicons.dev/icons?i=notion" />
@@ -12,14 +30,16 @@
 </div>
 
 
-
 <div align="center">
-  
-## Code challenge stats ...
-![LeetCode Stats](https://leetcard.jacoblin.cool/user0171yr?theme=light&font=M%20PLUS%201%20Code&ext=heatmap)
 
-
-# projects
+  <div id="user-content-toc">
+    <ul align="center" style="list-style: none;">
+      <summary>
+        <h1> projects </h1>
+      </summary>
+      <img src="https://leetcard.jacoblin.cool/user0171yr?theme=light&font=M%20PLUS%201%20Code&ext=heatmap"/>
+    </ul>
+  </div>
 
 <div align="center">
   <h2>
@@ -52,7 +72,7 @@
 <div align="center">
     <h2>
     <a href="https://github.com/codedevbrad/codedevbrad-authservice">
-       2022 - NodeJS **Authentication Layer NPM package.
+       2022 - NodeJS Authentication Layer NPM package.
     </a></h2> 
     <p> A tiny npm package that makes it easy to implement JWT or PassportJs within any NodeJS project. As of now, you can only use MongoDB. Was interesting to build but came across Database issues that made me abandon the project. </p>
     <div>
