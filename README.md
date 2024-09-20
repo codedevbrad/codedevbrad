@@ -28,7 +28,7 @@
       <summary>
          <h2> Track my projects in more detail </h2>
       </summary>
-      <a href="https://bradlumberdev.notion.site/Learning-platform-8674b50ceed74ff2bb1d964a01d3a709?pvs=4">
+      <a href="https://bradlumberdev.notion.site/Brad-Lumber-React-NextJS-developer-4c11fc242ff44499a99aefe3ba92e417">
         <img src="https://skillicons.dev/icons?i=notion" />
       </a>
     </ul>
