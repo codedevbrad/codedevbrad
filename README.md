@@ -96,6 +96,20 @@
 </div>
 </div>
 
+<div align="center">
+    <h2>
+    <a href="https://github.com/codedevbrad/leaflet_map_of_orders">
+       2020 - LeafletJS map of orders - ES6 OOP using Webpack and Babel..
+    </a></h2> 
+    <p> A map showcasing food orders displayed in bubble and single points using ES6 OOP principles with Webpack and Babel  </p>
+    <div align='center'>
+        <img src="https://github.com/user-attachments/assets/ff891283-f566-479f-a344-2a8b631cc626"  width="900" />
+    </div>
+</div>
+</div>
+
+</br>
+
 <!--
 **codedevbrad/codedevbrad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
