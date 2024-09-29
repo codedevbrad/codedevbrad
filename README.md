@@ -79,7 +79,7 @@
    </a> </h2>
    </br>
    <p>
-      Streamline the creation of new reusable components and blocks for your learning platform. This CLI tool eliminates the need for manual file creation, minimizes errors, and maintains consistency across your project. 
+      Streamlines the creation of new reusable components and blocks for the development of the learning platform. This CLI tool eliminates the need for manual file creation, minimizes errors, and maintains consistency across your project. 
       Perfect for speeding up development and keeping the codebase clean. 
    </p> 
    </br>
