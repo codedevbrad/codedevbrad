@@ -46,6 +46,19 @@
       </summary>        
     </ul>
   </div>
+  
+  <div align="center">
+    <h2>
+    <a href="https://github.com/codedevbrad/learningPlatform">
+        2024 - The coding bootcamp
+    </a></h2> 
+    <p> The Coding Bootcamp is a Learning Platform built for my students who I tutor. The platform provides the student with the ability to message and book sessions with the tutor whilst being set quizzes, tasks, mini challenges, explanations, and videos derived through concepts and challenges tagged by a language and type. </p>
+    </br>
+    <div align='center'>
+       <img src="https://github.com/user-attachments/assets/0e996ac8-b324-435d-8e9e-d08982af29c7" alt="coding bootcamp" width="900" /> 
+    </div>
+  </div>
+
 
 <div align="center">
   <h2>
@@ -61,17 +74,7 @@
 
 </br>
 
-<div align="center">
-  <h2>
-  <a href="https://github.com/codedevbrad/learningPlatform">
-      2024 - The coding bootcamp
-  </a></h2> 
-  <p> The Coding Bootcamp is a Learning Platform built for my students who I tutor. The platform provides the student with the ability to message and book sessions with the tutor whilst being set quizzes, tasks, mini challenges, explanations, and videos derived through concepts and challenges tagged by a language and type. </p>
-  </br>
-  <div align='center'>
-     <img src="https://github.com/user-attachments/assets/0e996ac8-b324-435d-8e9e-d08982af29c7" alt="coding bootcamp" width="900" /> 
-  </div>
-</div>
+
 
 <div align="center">
   <h2> <a href="https://github.com/codedevbrad/LearningPlatform_CLIs">
