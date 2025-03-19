@@ -38,7 +38,6 @@
 
 
 <div align="center">
-
   <div id="user-content-toc">
     <ul align="center" style="list-style: none;">
       <summary>
@@ -46,17 +45,48 @@
       </summary>        
     </ul>
   </div>
+
+  
+<div align="center">
+   <h2>
+      <a href="https://github.com/codedevbrad/PayslipToPDF">
+          2025 - PayslipToPdf
+      </a>
+  </h2> 
   
   <div align="center">
-    <h2>
-    <a href="https://github.com/codedevbrad/learningPlatform">
-        2024 - The coding bootcamp
-    </a></h2> 
-    <p> The Coding Bootcamp is a Learning Platform built for my students who I tutor. The platform provides the student with the ability to message and book sessions with the tutor whilst being set quizzes, tasks, mini challenges, explanations, and videos derived through concepts and challenges tagged by a language and type. </p>
-    </br>
-    <div align='center'>
-       <img src="https://github.com/user-attachments/assets/0e996ac8-b324-435d-8e9e-d08982af29c7" alt="coding bootcamp" width="900" /> 
-    </div>
+    <img src='https://github.com/user-attachments/assets/880b8319-0401-47bc-9cd5-575f650e5099' alt="Hundred Points" width="350" height="240" />
+  </div>
+  <br />
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nextjs,tailwind" />
+      </a>
+  </div>
+  
+  <br />
+  
+  <br />
+  
+  <div align="center">
+      <p> Making paysliips in word and converting to PDF to pay my employee was a hassle because i was manually having to mentally add and check that the weekly hours were correct + the total per month.. Now, with the system I quicky made, it's an easier way for me to generate monthly Payslips with the needed option of generating a PDF. </p>
+  </div>
+  
+  <br />
+  
+  <div align="center">
+      <img src="https://github.com/user-attachments/assets/49ae0dcb-4f02-47fe-9be7-f53c84825041" />
+  </div>
+  
+  <div align="center">
+      <h2>
+      <a href="https://github.com/codedevbrad/learningPlatform">
+          2024 - The coding bootcamp
+      </a></h2> 
+      <p> The Coding Bootcamp is a Learning Platform built for my students who I tutor. The platform provides the student with the ability to message and book sessions with the tutor whilst being set quizzes, tasks, mini challenges, explanations, and videos derived through concepts and challenges tagged by a language and type. </p>
+      </br>
+      <div align='center'>
+         <img src="https://github.com/user-attachments/assets/0e996ac8-b324-435d-8e9e-d08982af29c7" alt="coding bootcamp" width="900" /> 
+      </div>
   </div>
 
 
