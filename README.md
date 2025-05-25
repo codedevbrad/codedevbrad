@@ -101,16 +101,32 @@
     <img src="https://github.com/user-attachments/assets/a0923fb8-57fa-4f65-9458-7726af44c0ac" />
 </div>
   
-  
   <div align="center">
-ccccccc
-      <p> The Coding Bootcamp is a Learning Platform built for my students who I tutor. The platform provides the student with the ability to message and book sessions with the tutor whilst being set quizzes, tasks, mini challenges, explanations, and videos derived through concepts and challenges tagged by a language and type. </p>
-      </br>
-      <div align='center'>
-         <img src="https://github.com/user-attachments/assets/0e996ac8-b324-435d-8e9e-d08982af29c7" alt="coding bootcamp" width="900" /> 
-      </div>
+      <h2>
+        <a href="https://github.com/codedevbrad/learningPlatform">
+      2024 - Animated code snippet package. 
+   </a></h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" alt="Hundred Points" width="90" height="90" />
+</div>
+
+<div align="center">
+    <div align="center">
+      The Coding Bootcamp is a Learning Platform built for my students who I tutor. The platform provides the student with the ability to message
+      and book sessions with the tutor whilst being set quizzes, tasks, mini challenges, explanations, and videos derived through concepts 
+      and challenges tagged by a language and type. 
+    </div>
+      <br />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nextjs,tailwind,mongodb,prisma,ai" />
+      </a>
   </div>
 
+  <br />
+    
+  <div align='center'>
+     <img src="https://github.com/user-attachments/assets/0e996ac8-b324-435d-8e9e-d08982af29c7" alt="coding bootcamp" width="900" /> 
+  </div>
+  <br />
 
 <div align="center">
   <h2>
@@ -125,8 +141,6 @@ ccccccc
 </div>
 
 </br>
-
-
 
 <div align="center">
   <h2> <a href="https://github.com/codedevbrad/LearningPlatform_CLIs">
