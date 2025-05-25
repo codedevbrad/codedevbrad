@@ -82,7 +82,7 @@
   <div align="center">
   <h2>
       <a href="https://github.com/codedevbrad/codeTest_API">
-          2025 -  codeTest_API 🧪
+          2025 - codeTest_API 🧪
       </a>
   </h2> 
   <br />
@@ -104,7 +104,7 @@
   <div align="center">
       <h2>
         <a href="https://github.com/codedevbrad/learningPlatform">
-      2024 - Animated code snippet package. 
+      2024 - 2025 - The coding bootcamp. 
    </a></h2>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" alt="Hundred Points" width="90" height="90" />
 </div>
