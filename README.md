@@ -104,8 +104,9 @@
   <div align="center">
       <h2>
         <a href="https://github.com/codedevbrad/learningPlatform">
-      2024 - 2025 - The coding bootcamp. 
-   </a></h2>
+         2024 - 2025 - The coding bootcamp. 
+        </a>
+      </h2>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" alt="Hundred Points" width="90" height="90" />
 </div>
 
@@ -122,9 +123,8 @@
   </div>
 
   <br />
-    
   <div align='center'>
-     <img src="https://github.com/user-attachments/assets/0e996ac8-b324-435d-8e9e-d08982af29c7" alt="coding bootcamp" width="900" /> 
+     <img src="https://github.com/user-attachments/assets/3ca63671-06bd-43ea-b9d0-64dd5c7d44b6" alt="coding bootcamp" width="900" /> 
   </div>
   <br />
 
