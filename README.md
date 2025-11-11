@@ -46,6 +46,28 @@
     </ul>
   </div>
 
+  <div align="center">
+    <h2>
+        <a href="https://github.com/codedevbrad/codeTest_API">
+            2025 - LearningSwedish 🧪
+        </a>
+    </h2> 
+    <br />
+    <p>
+      I built this app because I wanted a way to practice Swedish while I use the Duolingo App. It’s organised into 
+      Flashcards, Quiz mode and Write. Built on Nextjs with App router, 
+      I haven’t currently hooked up any DB and the data is simply 
+      being pulled from a data.js file.
+    </p>
+    <div align="center">
+      <img src="https://github.com/user-attachments/assets/aa52da74-3275-4787-a168-8243383a68a9" />
+    </div>
+ </div>
+
+<br />
+
+<br />
+
   
 <div align="center">
    <h2>
@@ -58,17 +80,20 @@
     <img src='https://github.com/user-attachments/assets/880b8319-0401-47bc-9cd5-575f650e5099' alt="Hundred Points" width="350" height="240" />
   </div>
   <br />
-    <a href="https://skillicons.dev">
+      <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=nextjs,tailwind" />
       </a>
-  </div>
+ </div>
   
   <br />
   
   <br />
+
+  
   
   <div align="center">
-      <p> Making paysliips in word and converting to PDF to pay my employee was a hassle because i was manually having to mentally add and check that the weekly hours were correct + the total per month.. Now, with the system I quicky made, it's an easier way for me to generate monthly Payslips with the needed option of generating a PDF. </p>
+      <p> Making paysliips in word and converting to PDF to pay my employee was a hassle because i was manually having to mentally add and check that the weekly hours were correct + the total per month.. Now, with the system I quicky made, it's             an easier way for me to generate monthly Payslips with the needed option of generating a PDF. 
+      </p>
   </div>
   
   <br />
