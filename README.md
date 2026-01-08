@@ -5,7 +5,7 @@
       <h1>Hi,👋🏻 I'm Brad </h1>
     </summary>
     <summary>
-      <h2> I'm a full-stack dev currently building projects in my spare time 👋 </h2>
+      <h2> I'm a full-stack dev and tutor currently building projects in my spare time 👋 </h2>
     </summary>
   </ul>
 </div>
