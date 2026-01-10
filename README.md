@@ -22,18 +22,7 @@
       <img src="https://leetcard.jacoblin.cool/user0171yr?theme=light&font=M%20PLUS%201%20Code&ext=heatmap"/>
     </ul>
   </div>
-  
-  <div id="user-content-toc">
-    <ul align="center" style="list-style: none;">
-      <summary>
-         <h2> Track my projects in more detail </h2>
-      </summary>
-      <a href="https://bradlumberdev.notion.site/Brad-Lumber-React-NextJS-developer-4c11fc242ff44499a99aefe3ba92e417">
-        <img src="https://skillicons.dev/icons?i=notion" />
-      </a>
-    </ul>
-  </div>
-  
+ 
 </div>
 
 
